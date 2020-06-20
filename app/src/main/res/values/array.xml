@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="marker_disrict">
+
+        <item>楠梓區</item>
+        <item>左營區</item>
+        <item>鼓山區</item>
+        <item>三民區</item>
+        <item>鹽埕區</item>
+        <item>前金區</item>
+        <item>新興區</item>
+        <item>苓雅區</item>
+        <item>前鎮區</item>
+        <item>旗津區</item>
+        <item>小港區</item>
+        <item>鳳山區</item>
+        <item>大寮區</item>
+        <item>鳥松區</item>
+        <item>林園區</item>
+        <item>仁武區</item>
+        <item>大樹區</item>
+        <item>大社區</item>
+        <item>岡山區</item>
+        <item>路竹區</item>
+        <item>橋頭區</item>
+        <item>梓官區</item>
+        <item>彌陀區</item>
+        <item>永安區</item>
+        <item>燕巢區</item>
+        <item>田寮區</item>
+        <item>阿蓮區</item>
+        <item>茄萣區</item>
+        <item>湖內區</item>
+        <item>旗山區</item>
+        <item>美濃區</item>
+        <item>內門區</item>
+        <item>杉林區</item>
+        <item>甲仙區</item>
+        <item>六龜區</item>
+        <item>茂林區</item>
+        <item>桃源區</item>
+        <item>那瑪夏區</item>
+
+    </string-array>
+</resources>
